@@ -15,7 +15,7 @@ namespace Arrays
         {
             Console.WriteLine("Press any key to start the program");
             Console.ReadKey(true);
-            // A message to let the user know the program will start
+            // A message to let the user know the program will start once any key is pressed
 
             try
             {
@@ -30,6 +30,7 @@ namespace Arrays
 
                 Console.WriteLine("Press any key close the program");
                 Console.ReadKey(true);
+                // Message to let the user know to press any key to end the program
             }
             catch
             {
