@@ -24,7 +24,7 @@ namespace Arrays
 
                 foreach (int i in number)
                 {
-                    Console.WriteLine("Element = " + i + " ");
+                    Console.WriteLine("Element value = " + i + " ");
                 }
                 // This code will display each element in the array
 
